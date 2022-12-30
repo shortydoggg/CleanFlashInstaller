@@ -1,0 +1,16 @@
+.vs/
+packages/
+
+cleanflash/
+
+bin
+obj
+
+*.exe
+*.obj
+*.pdb
+*.user
+*.suo
+
+*.zip
+*.7z
